@@ -62,6 +62,6 @@ The website uses Bootstrap 5 to automatically adjust its layout across different
 • Admin Management Panel
 • Search and Filter Functionality
 # 👨‍💻 Developed By
-Venkat Rahul
+V.Venkat Rahul
 B.Tech – Electronics and Communication Engineering (ECE)
 Pragati Engineering College
