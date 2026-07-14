@@ -52,7 +52,7 @@ Restaurant-Website/
 • Reviews
 • Contact
 • Footer
-#📱 Responsive Design
+# 📱 Responsive Design
 The website uses Bootstrap 5 to automatically adjust its layout across different devices, ensuring a smooth and consistent user experience.
 # 🚀 Future Improvements
 • Online Food Ordering
